@@ -1,0 +1,19 @@
+# node_modules: 패키지 파일
+node_modules/
+
+# 빌드 결과물
+dist/
+build/
+
+# 환경 변수
+.env
+
+# 테스트 출력
+coverage/
+
+# IDE 설정
+.vscode/
+*.log
+
+# TypeScript
+*.tsbuildinfo
